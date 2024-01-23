@@ -1,6 +1,10 @@
 ## 안녕하세요!
+> [!NOTE]
+> 함께 열심히 배워 나가요:)
 
-함께 열심히 배워 나가요:) 
+
+> [!WARNING]
+> 아직 많이 부족해요~
 <!--
 **NaHyeSun/NaHyeSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
